@@ -133,7 +133,7 @@ expo publish
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
+Khulile Nzimande
 Built with ❤️ using [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/).
 
 ---
